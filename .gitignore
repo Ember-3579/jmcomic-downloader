@@ -1,0 +1,24 @@
+# Build output
+build/
+dist/
+release/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs and local runtime data
+*.log
+*.sqlite
+*.db
+.ghconfig/
+.github_token
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
