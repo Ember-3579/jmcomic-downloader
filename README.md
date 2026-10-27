@@ -155,7 +155,7 @@ powershell -ExecutionPolicy Bypass -File tools\install.ps1
 ## 说明与许可
 
 - 本项目只是 `jmcomic` 的本地图形界面封装，下载能力来自上游项目。
-- 请仅下载你有权保存的内容，遵守所在地法律法规和网站条款；请勿频繁批量抓取。
+- 下载请适量；请勿频繁批量抓取。
 - 本项目与禁漫官方、`JMComic-Crawler-Python` 作者均无隶属关系。
 - 封装代码以 MIT 许可发布；上游 `jmcomic` 为 MIT 许可。
   其他依赖的许可与来源见 `THIRD_PARTY_NOTICES.md`。
