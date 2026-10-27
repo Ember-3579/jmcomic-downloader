@@ -1,12 +1,12 @@
 # JM 漫画下载器
 
+一个安装在本机的 Windows 禁漫下载器，基于
+[JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python)（`jmcomic 2.7.10`）。
+
 > **原项目**：[hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python)（MIT）
 >
 > 本项目是非官方 Windows 图形界面封装，下载核心来自上述项目。请优先给原项目点 Star；
 > 本项目与原作者无隶属关系。
-
-一个安装在本机的 Windows 桌面下载器，基于
-[JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python)（`jmcomic 2.7.10`）。
 
 界面使用 Python/Tkinter，下载核心使用 `jmcomic`，打包为独立的
 `JMComicDownloader.exe`，不需要另外安装 Python。
